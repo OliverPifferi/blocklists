@@ -3,6 +3,7 @@
 # Count: 7 domains
 # Homepage: https://github.com/OliverPifferi/blocklists
 # Issues: https://github.com/OliverPifferi/blocklists/issues
+# Direct Link: https://raw.githubusercontent.com/OliverPifferi/blocklists/main/additional_blocklist.txt
 # Based upon checks on https://d3ward.github.io/toolz/adblock.html which (initially) only rated my blocking score with 89%.
 #
 # Copyright 2023 Oliver Pifferi
